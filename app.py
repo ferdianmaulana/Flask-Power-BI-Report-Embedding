@@ -1,5 +1,4 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
+
 
 from services.pbiembedservice import PbiEmbedService
 from utils import Utils

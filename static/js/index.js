@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 let screenWidth = window.innerWidth;
 
 $(function () {
